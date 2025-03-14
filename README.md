@@ -17,9 +17,6 @@ I'm a 21-year-old software engineer from Poland. Currently, I'm studying Algorit
 
 ### Badges
 
-<a href="https://github.com/Next2k3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next2k3&langs_count=10&title_color=444e59&text_color=000000&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Next2k3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
