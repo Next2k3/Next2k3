@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paweł
 =============================================================================================================================
 
-I'm a 21-year-old software engineer from Poland. Currently, I'm studying Algorithmic Computer Science and working on interesting projects in software development.
+I'm a 23-year-old software engineer from Poland. Currently, I'm studying Algorithmic Computer Science and working on interesting projects in software development.
 
 ### Skills
 
